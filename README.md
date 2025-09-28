@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![ICCV 2025](https://img.shields.io/badge/ICCV-2025-blue)](https://iccv2025.thecvf.com/)
+[![ICCV 2025](https://img.shields.io/badge/ICCV-2025-blue)](https://iccv.thecvf.com/)
 [![arXiv](https://img.shields.io/badge/arXiv-2507.09183-red)](https://arxiv.org/abs/2507.09183)
 [![GitHub Stars](https://img.shields.io/github/stars/Jywsuperman/LGSP?style=social)](https://github.com/Jywsuperman/LGSP)
 [![License](https://img.shields.io/badge/License-MIT-green)](./LICENSE)
@@ -61,9 +61,9 @@ pip install -r requirements.txt
 
 | Dataset | Domain | Images | Base Classes | Novel Classes | Download |
 |:-------:|:------:|:------:|:------------:|:-------------:|:--------:|
-| **CUB-200** | Birds | 11,788 | 100 | 100 (10 sessions, 10 classes each) | [Google Drive](your_link) / [Baidu Pan](your_link) |
-| **iNF200** | Fungi | 10,000 | 100 | 100 (10 sessions, 10 classes each) | [Google Drive](your_link) / [Baidu Pan](your_link) |
-| **FGVC-Aircraft** | Aircraft | 10,000 | 50 | 50 (10 sessions, 5 classes each) | [Google Drive](your_link) / [Baidu Pan](your_link) |
+| **CUB-200** | Birds | 11,788 | 100 | 100 (10 sessions, 10 classes each) | [Google Drive](https://drive.google.com/drive/folders/1oeptY4wRffZb-srrlqx47Z-k8jxRWVX3?usp=sharing) / [Baidu Pan](https://pan.baidu.com/s/1Y8VIHjrxPKMhyupehkJ1aw?pwd=LGSP) |
+| **iNF200** | Fungi | 10,000 | 100 | 100 (10 sessions, 10 classes each) | [Google Drive](https://drive.google.com/drive/folders/1oeptY4wRffZb-srrlqx47Z-k8jxRWVX3?usp=sharing) / [Baidu Pan](https://pan.baidu.com/s/1Y8VIHjrxPKMhyupehkJ1aw?pwd=LGSP) |
+| **FGVC-Aircraft** | Aircraft | 10,000 | 50 | 50 (10 sessions, 5 classes each) | [Google Drive](https://drive.google.com/drive/folders/1oeptY4wRffZb-srrlqx47Z-k8jxRWVX3?usp=sharing) / [Baidu Pan](https://pan.baidu.com/s/1Y8VIHjrxPKMhyupehkJ1aw?pwd=LGSP) |
 
 </div>
 
