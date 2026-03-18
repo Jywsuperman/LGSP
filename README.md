@@ -164,14 +164,12 @@ python train.py \
 If you find our work useful for your research, please cite:
 
 ```bibtex
-@misc{jiang2025revisitingpoolbasedpromptlearning,
-      title={Revisiting Pool-based Prompt Learning for Few-shot Class-incremental Learning}, 
-      author={Yongwei Jiang and Yixiong Zou and Yuhua Li and Ruixuan Li},
-      year={2025},
-      eprint={2507.09183},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2507.09183}, 
+@inproceedings{jiang2025revisiting,
+  title={Revisiting pool-based prompt learning for few-shot class-incremental learning},
+  author={Jiang, Yongwei and Zou, Yixiong and Li, Yuhua and Li, Ruixuan},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={1303--1313},
+  year={2025}
 }
 ```
 
